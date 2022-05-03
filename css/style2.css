@@ -1,0 +1,66 @@
+
+table{
+	 background-color: #4EB24D;
+         font-family:arial;
+         font-size:1.5em;
+         color: #fff;
+}
+estiloboton {
+	border:1px solid black;
+	font-family:arial;
+	font-size:1.5em;
+	height:100px;
+	width:230px;
+}
+
+.titulo1{
+         font-family:arial;
+         font-size:2.5em ;
+         align-content: center;
+         margin-top: 25px;
+         margin-left: 40px;
+      
+}
+
+.estilo1 {
+	background-color:black;
+	border:1px solid black;
+	font-family:arial;
+	font-size:1em;
+	line-height:2px;
+	padding:3px 3px 0 3px;
+	height:25px;
+	width:200px;
+}
+.crear{
+	background-color:#EABAF6;
+	border:1px solid black;
+	font-family:arial;
+	font-size:1em;
+	line-height:2px;
+	height:40px;
+	width:226px;  
+}
+.tabla1{
+         font-family:arial;
+         font-size:1.5em;
+         
+    
+}
+.tabla2{
+    	 background-color:#EABAF6;
+         font-family:arial;
+         font-size:1.5em;
+         
+    
+}
+
+.nombre{
+         font-family:arial;
+         font-size:1em   
+
+}
+.algo{
+         font-family:arial;
+         font-size:1.5em     
+}
